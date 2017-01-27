@@ -1,0 +1,35 @@
+body {
+  display: flex;
+  font-family: monospace;
+}
+
+h2 {
+  margin: 10px 0 10px 30px;
+}
+
+.main {
+  margin: auto;
+  width: 520px;
+}
+
+.form-item {
+  border-bottom: 1px solid #aaa;
+  border-left: 1px solid #aaa;
+  display: flex;
+  align-items: center;
+}
+
+.label {
+  margin-left: 30px;
+}
+
+.input {
+  border-top: none;
+  border-right: none;
+  font-family: monospace;
+  font-size: 18px;
+  height: 24px;
+  margin-left: 30px;
+  padding-left: 6px;
+  width: 220px;
+}
