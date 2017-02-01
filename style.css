@@ -23,6 +23,23 @@ h2 {
   margin-left: 30px;
 }
 
+.see-details {
+  cursor: pointer;
+  margin-left: 30px;
+}
+
+.open {
+  display: block;
+}
+
+.closed {
+  display: none;
+}
+
+.carousel {
+  list-style: none;
+}
+
 .input {
   border-top: none;
   border-right: none;
